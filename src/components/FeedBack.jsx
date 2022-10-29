@@ -6,17 +6,21 @@ Instructor                    :   Tigist B
 Due                           :   December 14th 2022
 
 */
+
+
 import React, { Component } from 'react';
-class FeedBack  extends Component {
-  state = {};
-  render () {
-  return (
+
+class Feedback extends Component {
+  state ={};
+  render() {
+    return  (
     <div>
-    <h1> Feedback Form </h1>
-    <p> Coming Soon </p>
+      <h1> Feedback Form </h1>
+      <p> Coming Soon </p>
+     
     </div>
-  )
-  }
+    )  
+  };
 }
 
-export default FeedBack;
+export default Feedback;

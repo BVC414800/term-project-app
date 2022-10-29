@@ -6,3 +6,20 @@ Instructor                    :   Tigist B
 Due                           :   December 14th 2022
 
 */
+
+import React, { Component } from 'react';
+
+class ProjectFooter extends Component {
+  state ={};
+  render() {
+    return  (
+    <div>
+     <p>  Created by SODV 2201 Section 1 Group 3. All rights reserved  &#169; 2022.  </p> 
+     
+    </div>
+    )  
+  };
+}
+
+
+export default ProjectFooter;

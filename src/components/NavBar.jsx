@@ -6,7 +6,6 @@ Instructor                    :   Tigist B
 Due                           :   December 14th 2022
 
 */
-
 // Main Navigation Bar 
 
 import React, { Component } from 'react';

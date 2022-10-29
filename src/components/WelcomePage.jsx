@@ -10,7 +10,7 @@ Due                           :   December 14th 2022
 // Main Landing Page 
 
 import React, { Component } from 'react';
-// import { useState } from 'react';
+import ProjectFooter from './component/ProjectFooter';
 class WelcomePage extends Component {
   useState ={};
   render() {
@@ -22,9 +22,11 @@ class WelcomePage extends Component {
      work schedule and free time schedule.  Each schedule is linked to customized 
      database. Each database has customized settings the user can personalized to 
      their specific needs. More details are coming soon. </p>
-   
-        
-  </div>
+    <div> 
+    <ProjectFooter />
+
+     </div>
+    </div>
     )  
   };
 }
