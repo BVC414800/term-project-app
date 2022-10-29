@@ -6,12 +6,3 @@ Instructor                    :   Tigist B
 Due                           :   December 14th 2022
 
 */
-
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-
-ReactDOM.render( <App />,document.getElementById('root')); 
-
-
-

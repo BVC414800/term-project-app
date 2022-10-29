@@ -6,12 +6,17 @@ Instructor                    :   Tigist B
 Due                           :   December 14th 2022
 
 */
+import React, { Component } from 'react';
+class FeedBack  extends Component {
+  state = {};
+  render () {
+  return (
+    <div>
+    <h1> Feedback Form </h1>
+    <p> Coming Soon </p>
+    </div>
+  )
+  }
+}
 
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-
-ReactDOM.render( <App />,document.getElementById('root')); 
-
-
-
+export default FeedBack;

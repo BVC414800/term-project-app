@@ -6,12 +6,20 @@ Instructor                    :   Tigist B
 Due                           :   December 14th 2022
 
 */
+// Free time schedule 
 
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React, { Component } from 'react';
 
-ReactDOM.render( <App />,document.getElementById('root')); 
+class freeTimeSchedule  extends Component {
+  state = {};
+  render () {
+  return (
+    <div>
+    <h1> Free Time Schedule </h1>
+    <p> Coming Soon </p>
+    </div>
+  )
+  }
+}
 
-
-
+export default freeTimeSchedule;

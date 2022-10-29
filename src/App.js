@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+/*
+SODV 2201 Group 3 Term Project -- BVC Day Timer App 
+Designed and programmed by    :   Candace Arriola and Paul K Kho
+Course                        :   SOVD 2201 Web Programming Section 1 Group 3
+Instructor                    :   Tigist B
+Due                           :   December 14th 2022
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+*/
+// Main entry point with  React JSX 
+// Main App section in React JSX 
+/*
+SODV 2201 Group 3 Term Project -- BVC Day Timer App 
+Designed and programmed by    :   Candace Arriola and Paul K Kho
+Course                        :   SOVD 2201 Web Programming Section 1 Group 3
+Instructor                    :   Tigist B
+Due                           :   December 14th 2022
 
-export default App;
+*/
+
+
