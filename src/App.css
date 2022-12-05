@@ -1,0 +1,53 @@
+/*
+SODV 2201 Term Project BVC Schedule App
+Program and codes designed by: Section 1 Group 3
+Frontend (Client) designed by : Candace Arriola
+Backend (Server) designed by  :  Paul K Kho
+Instructor                    :  Tigist Beshe 
+Due                           :  December 12 2022
+
+*/
+
+
+.reg{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+nav{
+    text-align: center;
+}
+
+body{
+    background-image:url("https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.spotlight {
+    text-align: left;
+    background-color: rgb(211, 200, 200);
+    width: auto;
+    border: 15px solid rgb(5, 75, 92);
+    padding: 50px;
+    margin: 20px;
+}
+
+.btn {
+    text-align: center;
+}
+form{
+    text-align: center;
+    align-items: center;
+    display: block;
+}
+
+p{
+    text-align: center;
+}
